@@ -9,9 +9,9 @@ You can check template in [Caramelo Tatoo Studio](https://caramelotattoo.com)
 Theme started with [Underscores](https://github.com/automattic/_s) - Wordpress Theme
 
 
-![Desktop](https://prnt.sc/9xWW8JJP2t5y "Desktop")
+![Desktop](https://github.com/jjmontalban/caramelotattoo/blob/main/desktop.png "Desktop")
 
-![Mobile](https://prnt.sc/UnD4y4b832pM "Mobile")
+![Mobile](https://github.com/jjmontalban/caramelotattoo/blob/main/mobile.png "Mobile")
 
 
 
